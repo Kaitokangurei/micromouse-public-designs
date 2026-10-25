@@ -6,6 +6,7 @@
 
 ## ハーフサイズの部品資料
 
+- [磁気式エンコーダの選定](docs/magnetic-encoder-selection.md)：ToraNeko.Mk3と同じAS5047P×2、SPI接続、磁石・小基板の仕様と未確定項目。
 - [壁センサの部品一覧](docs/wall-sensor-parts.md)：発光LED4型番、受光素子3型番、駆動・受光回路、機体別の採用例、メーカー資料、4ch構成の部品の数え方。
 
 ## 大会・ブログ・X・SNSの追加資料
